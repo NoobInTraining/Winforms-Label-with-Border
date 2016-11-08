@@ -16,5 +16,7 @@ namespace TrashGUI
         {
             InitializeComponent();
         }
-    }
+
+
+    }   
 }

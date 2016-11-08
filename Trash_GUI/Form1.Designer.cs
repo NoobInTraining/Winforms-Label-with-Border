@@ -35,11 +35,11 @@
             // customLabel1
             // 
             this.customLabel1.AutoSize = true;
-            this.customLabel1.Location = new System.Drawing.Point(96, 114);
+            this.customLabel1.Location = new System.Drawing.Point(96, 136);
             this.customLabel1.Name = "customLabel1";
-            this.customLabel1.Size = new System.Drawing.Size(73, 13);
+            this.customLabel1.Size = new System.Drawing.Size(124, 13);
             this.customLabel1.TabIndex = 7;
-            this.customLabel1.Text = "customLabel1";
+            this.customLabel1.Text = "Best Custom Libary ever!";
             // 
             // Form1
             // 

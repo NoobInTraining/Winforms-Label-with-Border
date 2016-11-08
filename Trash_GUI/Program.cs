@@ -15,11 +15,9 @@ namespace TrashGUI
         static void Main()
         {            
             Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            //object c = null;
+            Application.SetCompatibleTextRenderingDefault(false);            
             Form1 a = new Form1();
-            a.ShowDialog(null);
-            System.Threading.Thread.Sleep(System.Threading.Timeout.Infinite);
+            a.ShowDialog();
         }
     }
 }

@@ -20,7 +20,7 @@ namespace TrashGUI
         {
             container.Add(this);
 
-            InitializeComponent();
+            InitializeComponent();            
         }        
     }
 }
